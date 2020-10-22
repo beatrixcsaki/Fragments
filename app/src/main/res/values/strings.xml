@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="buttona">ButtonA</string>
+    <string name="buttonb">ButtonB</string>
+    <string name="buttonc">ButtonC</string>
+    <string name="url">https://fic.udc.es/</string>
+</resources>
